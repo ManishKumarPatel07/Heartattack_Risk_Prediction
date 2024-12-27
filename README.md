@@ -18,7 +18,7 @@ associated with having a heart attack in a patient in 10 years time.
 
 - Clone the project (or download the folder to your local)
     ```
-      git clone https://github.com/jageshsoni/HeartAttackRiskPredictionUsingML.git
+      git clone [https://github.com/jageshsoni/HeartAttackRiskPredictionUsingML.git](https://github.com/ManishKumarPatel07/Heartatack_Risk_Prediction.git)
     ```
 
 - Go to project directory
