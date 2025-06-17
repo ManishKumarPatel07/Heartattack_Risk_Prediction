@@ -47,6 +47,6 @@ To get the risk associated with heart attack, input the values of  age, BMI, Sys
 
 K Nearest Neighbor Algorithm
 
-## Authors
+## Author
 
 - Manish Kumar Patel 
